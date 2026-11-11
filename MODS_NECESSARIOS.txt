@@ -1,0 +1,62 @@
+﻿Mods ativos no mundo (ID  -  nome da pasta do mod).
+No PC novo, instale todos pelo menu de Mods do proprio jogo, pesquisando pelo ID ou pelo nome.
+
+935408    DinoFinder
+936001    CliffanHorses
+969855    CliffanSaddles
+1305730   MinersHelmet
+967786    AscendedArmory
+975223    CliffanWeaponsModern
+1360184   EasyResources
+933149    SpeedCrafts
+929084    BetterForges
+1446090   MeatSpoiler
+1101691   GlidersPlus
+928633    SpoilingChest
+934836    SafeSpawn
+1443222   DinoEditor
+1010248   BetterHorses
+930392    BetterTorches
+1357934   DinoEvent
+941697    BetterBreeding
+1662164   KINGNoDurability
+955451    StructureManagementTool
+929110    TG_Stack_10000_90
+1062502   TameDinoGun2
+944839    AlphasTamable
+932995    TameableBosses
+929684    NoUntameables
+928548    ShinyAscended
+1295027   UnlimitedBuildSupport
+1222937   MapUnlocker
+953154    AutoEngrams
+908148    AAXipachtinus
+926956    AAArchelon
+916922    AAHelicoprion
+914844    AADeinotherium
+900062    AACeratosaurus
+926259    AAAcro
+927131    AABrachiosaurus
+912902    AADeinosuchus
+949947    DeimosTekRex
+968201    DinoColourizer
+930389    BetterRawMeat
+952828    CreatureManagementTool
+933158    AlphaEverything
+1063373   DragonKingdom
+1109420   DinoRevival
+928824    Moros_Indomitable_Duo
+938805    DinosaurDiscovery
+961601    CliffansWardrobe
+949521    MarniiModsHairstyles
+932714    PrimalChaos
+939055    ARKomatic
+928597    AutomatedArkAscended
+912815    SDinoVariants
+929420    SuperSpyglassPlus
+940975    CybersStructures
+941450    AwesomeAdminTools
+1579003   AscendedSurvivalPlus
+929902    DeathInventoryKeeper
+
+Total: 57 mods

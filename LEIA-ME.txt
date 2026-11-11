@@ -1,0 +1,61 @@
+﻿TRANSFERENCIA DOS MUNDOS DO ARK SURVIVAL ASCENDED
+==================================================
+
+O que tem aqui
+--------------
+dados\Saved\SavedArksLocal   Todos os mundos: Ragnarok, Scorched Earth, The Center, Lost Colony
+                             e o backup antigo do The Island (com os backups automaticos de cada um)
+dados\Saved\Config\Windows   Game.ini, GameUserSettings.ini, Engine.ini, Input.ini, PrimalConsole.ini
+                             (todas as regras: XP, drops, status, bloqueios do Primal Chaos, configs de mod)
+MODS_NECESSARIOS.txt         Lista dos 57 mods ativos (ID e nome)
+INSTALAR.bat                 Roda no PC que vai RECEBER os mundos
+ATUALIZAR_PACOTE.bat         Roda no PC de ORIGEM pra recopiar tudo atualizado (e opcionalmente os mods)
+
+A copia dos mundos que ja vem aqui e de 10/11/2026. Se voce jogou depois disso,
+rode o ATUALIZAR_PACOTE.bat antes de levar o pacote.
+
+
+PASSO A PASSO
+-------------
+No PC de origem (opcional, mas recomendado):
+  1. Fecha o ARK.
+  2. Roda ATUALIZAR_PACOTE.bat.
+     - Ele copia de novo os mundos, configs, LocalProfiles e SaveGames.
+     - Pergunta se quer levar os mods junto (uns 15 GB). Levar evita baixar tudo de novo.
+  3. Copia a pasta ARK_Transferencia inteira pro outro PC (pendrive, HD externo, nuvem).
+
+No PC que vai receber:
+  1. Instala o ARK Survival Ascended e abre ele uma vez ate o menu, depois fecha.
+  2. Roda INSTALAR.bat.
+     - Ele acha o jogo sozinho: qualquer biblioteca da Steam (outro HD, SteamLibrary etc.),
+       Epic Games ou pastas comuns em todos os discos. Se nao achar, pede pra voce colar o caminho.
+     - Faz backup do que ja existia em ShooterGame\Saved\_BACKUP_antes_da_transferencia_<data>.
+     - Copia mundos, configs e (se tiver no pacote) os mods.
+  3. Abre o jogo e confere se os mods estao instalados. Os que faltarem, instala pelo
+     menu de Mods do jogo usando o MODS_NECESSARIOS.txt.
+  4. Hospeda o mapa normalmente.
+
+Se o Windows mostrar aviso azul (SmartScreen): "Mais informacoes" > "Executar assim mesmo".
+O .bat pede administrador porque a pasta do jogo costuma ficar em Arquivos de Programas.
+
+
+OUTRA CONTA STEAM
+-----------------
+O personagem fica ligado a conta que criou ele.
+- Se a outra conta hospedar e voce entrar com a SUA conta, seu personagem continua seu.
+- Se a outra conta for jogar sozinha, ela cria um personagem novo. Pra ela ter acesso as
+  coisas, coloca ela na sua tribo antes ou passa dinos em criogenicos e itens.
+
+
+DUPLICAR / BACKUP
+-----------------
+Esse pacote ja e uma copia completa. O jogo so le uma pasta por mapa (ex.: Ragnarok_WP).
+Pra ter duas versoes do mesmo mapa, renomeia a pasta que nao ta usando
+(ex.: Ragnarok_WP_copia) e troca os nomes quando quiser jogar a outra, sempre com o jogo fechado.
+
+
+OBSERVACOES
+-----------
+- Graficos e resolucao vem junto no GameUserSettings.ini. Se o outro PC for mais fraco,
+  ajusta nas configuracoes do jogo.
+- Xbox / Microsoft Store nao e suportado pelo script (a pasta de save e outra).
